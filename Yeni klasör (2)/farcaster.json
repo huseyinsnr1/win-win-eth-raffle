@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM2ODYsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhENjE0QzhFNTI2MWJhOEE4OWIyOEQ5OTY0NzYwYTA3Q2YzODVCM0NDIn0",
+    "payload": "eyJkb21haW4iOiJ3aW4td2luLWV0aC1yYWZmbGUub25yZW5kZXIuY29tIn0",
+    "signature": "MHhmZjYxY2JjZTUxNmExYzIyYWU1MzA5NjBkYzE5YWNlMWIxNWQ5ZjY5Zjc5NTcxMzk2ZmMxNGJkMjcyOGU4Yjk0NDVlMzRiN2Q1NWI4MGY0OWE3N2I2YzQ3YWU5MmM4MzQzYWY2NTlmZjllODMxZGI0YWQ3YmI0YWNhZjE3YmMzMWI"
+  },
+  "frame": {
+    "version": "1",
+    "name": "WIN WIN ETH Raffle",
+    "iconUrl": "https://win-win-eth-raffle.onrender.com/icon.png",
+    "homeUrl": "https://win-win-eth-raffle.onrender.com",
+    "imageUrl": "https://win-win-eth-raffle.onrender.com/splash.png",
+    "buttonTitle": "Play Now",
+    "splashImageUrl": "https://win-win-eth-raffle.onrender.com/splash.png",
+    "splashBackgroundColor": "#1a1a1a",
+    "webhookUrl": "https://win-win-eth-raffle.onrender.com/api/webhook"
+  }
+}
